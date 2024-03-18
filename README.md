@@ -1,9 +1,10 @@
 # Hello, I'm Glenn Wedin 👋
 
-[![Itera Badge](https://img.shields.io/badge/-Itera-white?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0wIDBWNDAwSDQwMFYwSDBaTTMyMS42IDExOS4ySDIzMi44VjI4MC44SDMyMS42VjMzNS4ySDc4LjRWMjgwLjhIMTY4VjExOS4ySDc4LjRWNjQuOEgzMjEuNlYxMTkuMloiIGZpbGw9IiNGRjRCMzMiLz4KPC9zdmc+Cg==&logoColor=white&link=https://www.itera.com)](https://www.itera.com)
+[![Itera Badge](https://img.shields.io/badge/-Itera-white?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0wIDBWNDAwSDQwMFYwSDBaTTMyMS42IDExOS4ySDIzMi44VjI4MC44SDMyMS42VjMzNS4ySDc4LjRWMjgwLjhIMTY4VjExOS4ySDc4LjRWNjQuOEgzMjEuNlYxMTkuMloiIGZpbGw9IiNGRjRCMzMiLz4KPC9zdmc+Cg==&logoColor=white&link=https://www.itera.com)](https://www.itera.com)
 [![Linkedin Badge](https://img.shields.io/badge/-GlennWedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glennwedin/)](https://www.linkedin.com/in/glennwedin/)
 [![Website Badge](https://img.shields.io/badge/-glenn.wedin.no-47CCCC?style=flat-square&logo=Vivaldi&logoColor=white&link=https://glenn.wedin.no)](https://glenn.wedin.no)
 [![Website Badge](https://img.shields.io/badge/-@glwe0903-fb0202?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@glwe0903)](https://www.youtube.com/@glwe0903)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://glennwedin.medium.com)
 [![GitHub followers](https://img.shields.io/github/followers/glennwedin?label=Follow&style=social)](https://github.com/glennwedin)
 
 Welcome to my GitHub profile! I'm a passionate [Your Profession] who loves coding and contributing to open-source projects. Here, you'll find a variety of projects that showcase my skills and interests.
@@ -28,6 +29,9 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession] who loves codin
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
