@@ -1,6 +1,6 @@
 # Hello, I'm Glenn Wedin 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Itera-white?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0wIDBWNDAwSDQwMFYwSDBaTTMyMS42IDExOS4ySDIzMi44VjI4MC44SDMyMS42VjMzNS4ySDc4LjRWMjgwLjhIMTY4VjExOS4ySDc4LjRWNjQuOEgzMjEuNlYxMTkuMloiIGZpbGw9IiNGRjRCMzMiLz4KPC9zdmc+Cg==&logoColor=white&link=https://www.itera.com)](https://www.itera.com)
+[![Itera Badge](https://img.shields.io/badge/-Itera-white?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgdmlld0JveD0iMCAwIDQwMCA0MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0wIDBWNDAwSDQwMFYwSDBaTTMyMS42IDExOS4ySDIzMi44VjI4MC44SDMyMS42VjMzNS4ySDc4LjRWMjgwLjhIMTY4VjExOS4ySDc4LjRWNjQuOEgzMjEuNlYxMTkuMloiIGZpbGw9IiNGRjRCMzMiLz4KPC9zdmc+Cg==&logoColor=white&link=https://www.itera.com)](https://www.itera.com)
 [![Linkedin Badge](https://img.shields.io/badge/-GlennWedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glennwedin/)](https://www.linkedin.com/in/glennwedin/)
 [![Website Badge](https://img.shields.io/badge/-glenn.wedin.no-47CCCC?style=flat-square&logo=Vivaldi&logoColor=white&link=https://glenn.wedin.no)](https://glenn.wedin.no)
 [![Website Badge](https://img.shields.io/badge/-@glwe0903-fb0202?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@glwe0903)](https://www.youtube.com/@glwe0903)
