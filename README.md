@@ -9,7 +9,7 @@
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working as a consultant @ Itera
+- 🔭 I’m currently working as a Managing Consultant @ Itera
 - 🔭 I’m currently working on [dyrespor.dev](https://dyrespor.dev)
 - 🌱 I’m currently learning anything cloud related
 - 💬 Ask me about frontend @ Itera
