@@ -32,7 +32,3 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession] who loves codin
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-
-## 🏆 GitHub Trophies
-
-[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=glennwedin&theme=darkhub&column=7)](https://github.com/glennwedin)
