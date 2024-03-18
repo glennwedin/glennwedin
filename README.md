@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as a consultant @ Itera
 - 🔭 I’m currently working on [dyrespor.dev](https://dyrespor.dev)
-- 🌱 I’m currently learning anything cloud r
+- 🌱 I’m currently learning anything cloud related
 - 💬 Ask me about frontend @ Itera
 - 📫 How to reach me: LinkedIn ;)
 
