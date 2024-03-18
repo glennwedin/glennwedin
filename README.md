@@ -7,8 +7,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://glennwedin.medium.com)
 [![GitHub followers](https://img.shields.io/github/followers/glennwedin?label=Follow&style=social)](https://github.com/glennwedin)
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession] who loves coding and contributing to open-source projects. Here, you'll find a variety of projects that showcase my skills and interests.
-
 ## 🚀 Quick Overview
 
 - 🔭 I’m currently working as a consultant @ Itera
