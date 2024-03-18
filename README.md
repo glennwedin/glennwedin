@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-GlennWedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glennwedin/)](https://www.linkedin.com/in/glennwedin/)
 [![Website Badge](https://img.shields.io/badge/-glenn.wedin.no-47CCCC?style=flat-square&logo=Vivaldi&logoColor=white&link=https://glenn.wedin.no)](https://glenn.wedin.no)
 [![Website Badge](https://img.shields.io/badge/-@glwe0903-fb0202?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@glwe0903)](https://www.youtube.com/@glwe0903)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://glennwedin.medium.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://glennwedin.medium.com)
 [![GitHub followers](https://img.shields.io/github/followers/glennwedin?label=Follow&style=social)](https://github.com/glennwedin)
 
 Welcome to my GitHub profile! I'm a passionate [Your Profession] who loves coding and contributing to open-source projects. Here, you'll find a variety of projects that showcase my skills and interests.
