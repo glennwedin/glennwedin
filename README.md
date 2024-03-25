@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://glennwedin.medium.com)
 [![GitHub followers](https://img.shields.io/github/followers/glennwedin?label=Follow&style=social)](https://github.com/glennwedin)
 
-## 🚀 Quick Overview
+## 👨‍💼 About me
 
 - 🔭 I’m currently working as a Managing Consultant @ Itera
 - 🔭 I’m currently working on [dyrespor.dev](https://dyrespor.dev)
