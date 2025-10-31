@@ -8,9 +8,7 @@
 
 ## 👨‍💼 About me
 
-- 🔭 I’m currently working as a Managing Consultant @ Itera
-- 💬 Ask me about frontend @ Itera
-- 📫 How to reach me: LinkedIn ;)
+- 🔭 I’m currently working as an IT consultant at Aboveit
 
 ## 🛠️ Skills
 
