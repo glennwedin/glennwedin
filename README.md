@@ -1,6 +1,6 @@
 # Hello, I'm Glenn Wedin 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-GlennWedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glennwedin/)](https://www.linkedin.com/in/glennwedin/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/glennwedin/)
 [![Website Badge](https://img.shields.io/badge/-glenn.wedin.no-47CCCC?style=flat-square&logo=Vivaldi&logoColor=white&link=https://glenn.wedin.no)](https://glenn.wedin.no)
 [![Website Badge](https://img.shields.io/badge/-@glwe0903-fb0202?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@glwe0903)](https://www.youtube.com/@glwe0903)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://glennwedin.medium.com)
